@@ -1,0 +1,68 @@
+Welcome to Machinist Pocket Pal for iOS
+
+Overview
+Welcome to Machinist Pocket Pal for iOS, your comprehensive, portable toolkit designed specifically for machinists and engineers. Created by Wesley Pingleton, this app combines essential tools and reference materials to streamline and support your daily work in machining and manufacturing. With a blend of standard and metric calculations, setup documentation, and a robust library of machining resources, Machinist Pocket Pal is your ultimate companion on the job.
+
+Key Features
+
+Standard and Metric Calculations
+
+Milling and Lathe Cutting Formulas: Perform quick and precise calculations for milling and lathe cutting, supporting both standard and metric measurements to suit various job requirements.
+Drilling Calculations: Calculate drilling parameters easily, optimizing efficiency and accuracy in your work.
+Setup Documentation and Library
+
+New Setup Documentation: Document tool details, setup configurations, machine parameters, and more. Keep records of each setup for future reference, helping ensure consistency and reliability.
+Setup Library: Access, review, and edit past setups in the library, allowing you to revisit and refine setups to improve processes and ensure precision in recurring tasks.
+Material Hardness and Cutting Speeds
+
+Material Hardness Information: Includes details on material hardness for various materials, in both soft and hardened states.
+Recommended Cutting Speeds: Provides conservative cutting speeds for different material hardness conditions to aid in optimizing tool performance.
+Specialty Calculators
+
+Bolt Hole Calculator: Accurately calculate bolt hole patterns, simplifying complex layouts and eliminating guesswork.
+Trig Calculator for Right Triangles: Tackle trigonometric calculations quickly, especially useful for precise machining and layout needs.
+True Position Calculator: Calculate the true position based on deviations in X and Y axis centerlines, aiding in accurate hole positioning.
+GD&T Help Section
+Provides a detailed guide on Geometric Dimensioning and Tolerancing (GD&T), supporting your work with industry standards and ensuring precision.
+
+Tap Drill and Chart Reference Sheet
+Included is a comprehensive reference sheet for tap drills and charts, covering the most common UNC and UNF threads, metric threads, and NPT threads. This quick-access feature ensures you have essential threading information at your fingertips.
+
+Unit Conversions
+Perform conversions in categories essential to machining, including:
+
+Degrees
+Torque
+Volume
+Hydraulics
+Pneumatics
+Surface Area
+Weight
+Mathematical Formulas
+Access an extensive library of mathematical formulas applicable to machining:
+
+Geometry
+Electricity
+Hydraulics
+Pneumatics
+Trigonometry
+Physics
+Material Weight Calculations
+Each category provides you with essential formulas to support your precision and efficiency.
+
+G and M Codes with Examples
+Reference common G and M codes complete with examples, ensuring accurate command entries for CNC machines and reducing the chances of errors during operation.
+
+CNC Macros
+Access common macros with examples, guiding you through complex setups and advanced CNC programming for increased automation and productivity.
+
+Getting Started
+
+Download and Open: Start by downloading Machinist Pocket Pal from the App Store.
+Explore the Interface: Familiarize yourself with each section, and take advantage of the setup documentation and library for recording and revisiting setups.
+Calculator and Conversion Tools: Use calculators and conversion tools for accurate measurements and machining parameters in real-time.
+Consult the G/M Codes and Formulas: Have quick access to important machining references without leaving the app.
+Customer Support
+If you have any questions or need further assistance, feel free to reach out. Thank you for choosing Machinist Pocket Pal for iOS. We hope it becomes an invaluable tool in your work as a machinist. Please contact Wesley Pingleton at wesleypingleton@gmail.com for any tech support or questions.
+
+God bless.

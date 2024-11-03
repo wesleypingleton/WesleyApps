@@ -1,0 +1,30 @@
+Privacy Policy for Machinist Pocket Pal for iOS
+
+Last Updated: [11-1-2024]
+
+Machinist Pocket Pal for iOS, developed by Wesley Pingleton, is committed to protecting your privacy. This Privacy Policy outlines how Machinist Pocket Pal handles your information and describes the steps taken to ensure the security and confidentiality of your data.
+
+Information Collection and Use
+Machinist Pocket Pal does not collect or transmit any personal data. The app is designed to operate fully offline, with all user-entered data stored locally on your device using Apple’s Core Data framework.
+
+User-Generated Data: Any information or data you enter within the app (e.g., setup details, calculations, and preferences) is stored exclusively on your device. No data is shared, collected, or transmitted to external servers or third-party services.
+Local Storage with Core Data
+Machinist Pocket Pal uses Apple’s Core Data framework to store your data securely on your device. This local storage allows the app to function effectively without requiring an internet connection, providing you full access to your data even when offline.
+
+No Remote or Cloud Storage: Data is not stored on any remote servers or cloud services, ensuring complete control and ownership over the information you save. As a result, the app’s data is not automatically backed up to the cloud. When changing devices, please plan ahead to transfer any important data manually, as it will not carry over automatically.
+Access to Camera Roll
+Machinist Pocket Pal may request access to your camera roll solely to allow you to select photos or images for customization within the app.
+
+No Data Sharing: Images accessed through the camera roll are used exclusively within the app on your device and are not collected, shared, or uploaded to external sources.
+Security
+Machinist Pocket Pal implements reasonable safeguards to ensure your information remains private. Since all data remains on your device, the app relies on iOS’s built-in security measures to protect your information.
+
+Contact
+If you have any questions regarding this Privacy Policy or need further assistance, please feel free to contact Wesley Pingleton at:
+
+Email: wesleypingleton@gmail.com
+
+Changes to This Privacy Policy
+This Privacy Policy may be updated periodically. Any changes will be noted in this document, and the “Last Updated” date will reflect the latest revision.
+
+By using Machinist Pocket Pal, you agree to this Privacy Policy. Please review this document periodically to stay informed about how your information is protected.
