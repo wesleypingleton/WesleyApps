@@ -1,0 +1,43 @@
+Privacy Policy for Deer Camp Diaries
+Effective Date: [10-25-2025] Developer: Wesley Pingleton Contact: wesleypingleton@gmail.com
+Introduction
+Thank you for using Deer Camp Diaries. Your privacy matters. This policy explains what information the app uses, how it is stored, and your choices. In short: your data stays on your device. We do not collect, track, sell, or share your personal information with anyone.
+1) What We Collect (On Device Only)
+Deer Camp Diaries allows you to save hunting-related entries (e.g., deer logs, notes, photos, pins/coordinates). These items are stored locally on your iPhone/iPad using Apple’s Core Data. Examples of data you may choose to save:
+	•	Deer logs (date/time, deer type, antler points, weight, notes, weapon, optional photo)
+	•	Hunting notes and checklists
+	•	Optional GPS coordinates and Apple Maps links you select
+	•	Photos you pick from your library
+We do not transmit this information to any external server or third party.
+2) Permissions We Request (Purpose-Limited)
+To power key features, the app may request the following Apple system permissions:
+	•	Location (Optional): To drop a pin for a hunting spot or open directions.
+	◦	Used only when you choose to save a location; not tracked in the background for other purposes.
+	•	Photos (Optional): To attach images to logs or notes via the system photo picker.
+	◦	We only access the photos you explicitly select.
+	•	Camera (Optional, if used): To capture a new photo for your log.
+	◦	Images remain on device and in your app data unless you export/share them.
+Permissions are used solely for the feature you requested and are not used for tracking or advertising.
+3) Data Storage & Retention
+	•	All content you save is stored locally on your device via Core Data.
+	•	We do not maintain any servers for this app and do not sync your data.
+	•	If your device is set to back up to iCloud or a computer, Apple’s backup process may include your app data (subject to your personal device settings).
+	•	You can delete any item inside the app (e.g., a log, note, or photo). Deleting the app from your device will remove all locally stored app data.
+4) Data Sharing & Third Parties
+	•	No data sharing: We do not share or sell your data to third parties.
+	•	No analytics/ads SDKs: The app does not include third-party analytics or advertising SDKs.
+	•	No tracking: We do not track you across apps or websites.
+5) Security
+We rely on iOS/iPadOS security protections and store your data using Apple frameworks (Core Data). Because information remains on device, risks are reduced. We recommend using a device passcode/biometrics and keeping your OS updated.
+6) Children’s Privacy
+Deer Camp Diaries is intended for general audiences. We do not knowingly collect personal information from children. Because we do not operate servers, any information is kept on the user’s device.
+7) Your Choices & Controls
+	•	Grant/deny permissions anytime in Settings > Privacy on your device.
+	•	View, edit, or delete entries inside the app.
+	•	Delete the app to remove all locally stored data from your device.
+8) International/Legal Rights Notices
+Because we do not operate servers or process data off-device, many data subject rights (GDPR/CCPA/CPRA) are inherently satisfied: we do not hold your personal data. If you have questions or requests, email wesleypingleton@gmail.com.
+9) Changes to This Policy
+We may update this policy to reflect new features or legal requirements. Updates will be posted here with a new Effective Date. Continued use of the app after the effective date indicates acceptance of the updated policy.
+10) Contact
+Questions or concerns? Email: wesleypingleton@gmail.com
