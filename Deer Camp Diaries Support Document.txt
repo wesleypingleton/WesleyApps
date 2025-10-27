@@ -1,0 +1,50 @@
+Support for Deer Camp Diaries
+Welcome to Deer Camp Diaries — the all-in-one hunting companion designed for deer hunters who want to keep every memory, harvest, and preparation detail organized in one place. Whether you’re tracking your deer kills, logging stand locations, or taking hunting prep notes, this app is built to be your digital hunting journal in your pocket.
+
+About the App
+Deer Camp Diaries is designed for hunters who take pride in preparation and record-keeping. With this app, you can:
+	•	Log every deer you harvest — including date, time, location, weapon used, deer type, weight, antler points, photos, and notes.
+	•	Track your favorite hunting spots using GPS and pin exact coordinates on the map for quick reference.
+	•	Record your pre-season scouting details such as stand setup, scrapes, rubs, tracks, droppings, and trail cam findings.
+	•	Keep detailed hunting prep notes and add personal reminders for upcoming hunts.
+	•	View and edit past logs anytime, keeping your hunting history organized and easy to review.
+
+Directions
+1. Logging a Deer Kill
+	•	Tap “Log a Killed Deer” from the main Deer Library screen.
+	•	Enter key information such as the date, time, deer type, antler points, weight, and weapon used.
+	•	Add a photo of your harvest (optional).
+	•	Include notes about the conditions, terrain, or hunting method.
+	•	Tap Save to store your record locally on your device. Your logs will automatically appear in the Past Logs tab.
+2. Adding Hunting Prep Notes
+	•	Tap “Hunting Prep Notes” from the Deer Library.
+	•	Log your stand setup details, scouting observations, and trail camera notes.
+	•	Use toggle switches for quick on/off details like “Scrapes Found”, “Tracks Seen”, or “Trail Cam Footage.”
+	•	You can also add additional notes at the bottom for any extra details worth remembering.
+3. Viewing Past Logs
+	•	Go to the Past Logs section to view your complete hunting history.
+	•	Tap a log to edit or view details.
+	•	Swipe left to delete unwanted entries.
+	•	Tap a photo thumbnail to view it full screen with pinch-to-zoom capabilities.
+4. Using Location and GPS
+	•	When creating a log, you can optionally enable Location Services to record where your deer was harvested or where you scouted.
+	•	Use Apple’s integrated map technology to revisit or mark your stands.
+	•	All coordinates remain private and stored only on your device.
+5. Managing Your Weapon Library
+	•	You can add or edit weapons in the Weapon Library.
+	•	Record your rifle, bow, or muzzleloader details, along with any notes (such as preferred ammo or optics).
+	•	Add photos to keep your weapon profiles visual and organized.
+
+Data & Privacy
+	•	All logs, notes, and locations are stored locally on your device using Apple’s Core Data.
+	•	No data is uploaded, shared, or transmitted.
+	•	Your hunting information remains completely private to you.
+
+Need Help?
+If you have questions, suggestions, or need technical support, please reach out:
+📧 Email: wesleypingleton@gmail.com We’re happy to help and value your feedback.
+
+Thank You
+Thank you for using Deer Camp Diaries for iOS. We hope it enhances your hunting experience and becomes a part of your annual tradition.
+Good luck this season — hunt safe, log proudly, and cherish the memories.
+Sincerely, Wesley Pingleton
